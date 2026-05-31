@@ -1,4 +1,4 @@
-name: Train model in prod (PR comment)
+name: Train model in prod uction(PR comment)
 
 on:
   issue_comment:
